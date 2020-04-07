@@ -5,3 +5,5 @@ title: Hello Gatsby
 description: First Post
 ---
 Hello Gatsby!
+
+![](assets/img_20200406_193216.jpg "new house")
